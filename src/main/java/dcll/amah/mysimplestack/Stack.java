@@ -4,7 +4,8 @@ import java.util.EmptyStackException;
 
 /**
  * Created by mahamat on 28/02/15.
- * Un commentaire repondant a l'exigence #3
+ * Un commentaire repondant a l'exigence #3 et l'exigence #5
+ * Un deuxieme commentaire
  */
 public class Stack implements SimpleStack {
 
